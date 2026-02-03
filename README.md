@@ -56,3 +56,8 @@ BCR operates by orchestrating the following kernel features:
     *   UTS: Isolated hostname.
     *   MOUNT: Private mount points (e.g., `/proc`).
 4.  **Chroot:** Pivots the root directory to the container's RootFS.
+
+
+
+---
+*Part of my DevOps Journey 2026. Built to learn, not to replace docker.*
